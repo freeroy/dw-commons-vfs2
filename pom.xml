@@ -11,7 +11,7 @@
 	<artifactId>dw-commons-vfs2</artifactId>
 	<name>dw-commons-vfs2</name>
 	<packaging>jar</packaging>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.3</version>
 	<description>针对VFS框架的扩张工具包,参考commons-vfs2</description>
 	
 	<!-- scm配置 -->
